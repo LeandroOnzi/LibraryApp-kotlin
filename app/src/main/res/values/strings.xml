@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookLibraryApp</string>
+    <string name="title_activity_user_registration">UserRegistrationActivity</string>
+    <string name="title_activity_book_registration">BookRegistrationActivity</string>
+    <string name="title_activity_book_detail">BookDetailActivity</string>
+    <string name="title_activity_book_list">BookListActivity</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+    <string name="title_activity_user_edit">UserEditActivity</string>
+    <string name="title_activity_book_edit">BookEditActivity</string>
+</resources>
